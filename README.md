@@ -1,2 +1,2 @@
-# EtecShop-MongoDB
-Projeto integrador de desenvolvimento de API C# para acesso de produtos banco de dados MongoDB
+# Etecshop-mongoDB
+Projeto integrador de desenvolvimento de API C# para acesso a produtos em banco de dados MongoDB
